@@ -1,3 +1,7 @@
+![member](./images/member.png)
+
+
+
 <div align=center>
 
 # 🦸‍♂🦸‍♀용감한 친구들을 소개합니다
@@ -107,4 +111,5 @@ PR은 `master` 쪽으로 제출해주시면 됩니다.
 
 --------
 
- Readme Inspired by [DevFest-Seoul-2019-guestbook](https://github.com/GDG-Seoul/DevFest-Seoul-2019-guestbook)
+- Cover img from [freepik.com](https://www.freepik.com/free-psd/set-two-badge-identity-cards-mockup_8950656.htm#page=1&query=employee%20card&position=14). - Free img
+ - Readme Inspired by [DevFest-Seoul-2019-guestbook](https://github.com/GDG-Seoul/DevFest-Seoul-2019-guestbook)
