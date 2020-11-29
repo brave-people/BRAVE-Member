@@ -1,6 +1,4 @@
-![member](./images/member.png)
-
-
+![member](./images/member_2.png)
 
 <div align=center>
 
@@ -14,7 +12,7 @@
 
 ------
 
-## 방명록 양식 (미리 복사해주세요!)
+## 프로필 양식 양식
 
 - 프로필 url이 없을 경우 https://avatar.tobi.sh/tobiaslins.svg?text=BP 좌측 text parameter에 본인의 이니셜로 변경해주세요.
   - 예시)`https://avatar.tobi.sh/tobiaslins.svg?text=BP`
@@ -47,7 +45,7 @@ github: {{계정 아이디 / 없으면 해당 라인 삭제하셔도 됩니다.}
 
 ------
 
-## 2. 변경 사항 만들기(방명록 추가하기)
+## 2. 프로필 추가하기
 
 저장소는 이제 GitHub 프로필 아래에 별도의 저장소로 존재합니다.
 
@@ -97,7 +95,7 @@ upstream에 PR을 제출하면 내 코드를 반영할 수 있습니다. (upstre
 
 GitHub가 자동으로 감지하지 못하는 경우 *compare across forks*를 클릭해주세요. 그 다음 PR을 생성하세요.
 
-base repository는 GDG Seoul의 저장소가 될 것이고, head repository는 자신이 수정한 저장소의 브랜치가 될 것입니다.
+base repository는 brave-member의 저장소가 될 것이고, head repository는 자신이 수정한 저장소의 브랜치가 될 것입니다.
 PR은 `master` 쪽으로 제출해주시면 됩니다.
 
 ![pull request](.github/images/pullrequest.gif)
@@ -111,5 +109,5 @@ PR은 `master` 쪽으로 제출해주시면 됩니다.
 
 --------
 
-- Cover img from [freepik.com](https://www.freepik.com/free-psd/set-two-badge-identity-cards-mockup_8950656.htm#page=1&query=employee%20card&position=14). - Free img
+- Cover image from [freepik.com](https://www.freepik.com/free-psd/set-two-badge-identity-cards-mockup_8950656.htm#page=1&query=employee%20card&position=14). - Free img
  - Readme Inspired by [DevFest-Seoul-2019-guestbook](https://github.com/GDG-Seoul/DevFest-Seoul-2019-guestbook)
