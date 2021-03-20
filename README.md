@@ -1,10 +1,21 @@
+# 🦸‍♂🦸‍♀용감한 친구들을 소개합니다
+
 ![member](./images/member_2.png)
+
+<br />
 
 <div align=center>
 
-# 🦸‍♂🦸‍♀용감한 친구들을 소개합니다
+*새로운 용감이 영입시 제가 추가하며, 수정할 부분이 있다면 직접 커밋하여 수정하면 됩니다!
 
 </div>
+
+<br />
+<br />
+<details>
+  <summary> (Archive) 예전 방식 </summary>
+
+<br />
 
 용감한 친구들을 소개합니다! 용감한 친구들 맴버들은 다음과 같은 방법으로 용감한 친구들 프로필을 등록할 수 있습니다. 
 
@@ -111,3 +122,14 @@ PR은 `master` 쪽으로 제출해주시면 됩니다.
 
 - Cover image from [freepik.com](https://www.freepik.com/free-psd/set-two-badge-identity-cards-mockup_8950656.htm#page=1&query=employee%20card&position=14). - Free img
  - Readme Inspired by [DevFest-Seoul-2019-guestbook](https://github.com/GDG-Seoul/DevFest-Seoul-2019-guestbook)
+
+</details>
+
+<br />
+<br />
+<br />
+<div align=center>
+  <hr />
+    <h3> 용감한 친구들 with 남송리 삼번지 </h3>
+  <hr />
+</div>
